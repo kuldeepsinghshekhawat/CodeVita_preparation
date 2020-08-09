@@ -6,7 +6,7 @@ Created on Sat Jun 27 18:37:18 2020
 Topic: Stone game One four
 """
 
- java code in botebook
+ java code in Notebook
 
 
 
